@@ -1,4 +1,4 @@
-const { rippleui } = require("@rippleui/theme");
+const { rippleui } = require("rippleui");
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
